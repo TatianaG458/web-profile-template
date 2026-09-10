@@ -13,12 +13,12 @@ A public web page with six sections:
 
 | Section | What goes there |
 |---|---|
-| Home | Your name, your role, your links |
+| Home | Ingrid Tatiana Gualtero Lozano, web programming estudent ,https://github.com/TatianaG458/web-profile-template  |
 | About | I use my computer to study and practice programming because I want to improve my skills for my future career. |
-| Skills | Your technical and professional skills |
-| Resume | Your education and your experience |
-| Projects | The projects you have built |
-| Contact | How people can reach you |
+| Skills |Html, JavaScript, basic programming, web development, problem solving, teamwork, communication, compute skills |
+| Resume | Administrative Support Technician, estudent of web programming |
+| Projects | I am creating a personal website to show my skills, education, and projects. |
+| Contact | Gmail:tatianagualtero88@gmail.com, https://github.com/TatianaG458/web-profile-template |
 
 ---
 
