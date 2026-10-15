@@ -14,8 +14,8 @@ A public web page with six sections:
 | Section | What goes there |
 |---|---|
 | Home | Ingrid Tatiana Gualtero Lozano, web programming estudent ,https://github.com/TatianaG458/web-profile-template  |
-| About | I use my computer to study and practice programming because I want to improve my skills for my future career. |
-| Skills |Html, JavaScript, basic programming, web development, problem solving, teamwork, communication, compute skills |
+| About |I am a Web Programming student with a C1 English proficiency level. I use my computer to study software development and practice coding every day. I enjoy building databases, creating web interfaces, and solving logic problems. I want to improve my technical skills to become a full-stack developer in my future career. |
+| Skills |HTML: I build clear and semantic web page structures, CSS: I design responsive layouts and custom styling,JavaScript: I implement interactive logic and dynamic features,PHP & SQL: I manage relational databases and backend connectivity,Java: I write object-oriented code and algorithmic logic. Profesional skills: Teamwork: I collaborate effectively with my peers on class projects,Problem solving: I analyze bugs logically to find practical solutions, Fast learning: I adapt quickly to new programming tools and frameworks. |
 | Resume | Administrative Support Technician, estudent of web programming |
 | Projects | I am creating a personal website to show my skills, education, and projects. |
 | Contact | Gmail:tatianagualtero88@gmail.com, https://github.com/TatianaG458/web-profile-template |
